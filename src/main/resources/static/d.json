@@ -1,0 +1,12 @@
+{
+  "city": "杭州",
+  "id": 1130,
+  "operatorId": 1,
+  "orderType": "测试数据",
+  "originalPrice": "123",
+  "packageName": "测试套餐",
+  "presentPrice": "13",
+  "province": "浙江",
+  "speed": "1000M",
+  "testFee": "3"
+}

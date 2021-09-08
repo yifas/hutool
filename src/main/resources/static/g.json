@@ -1,0 +1,38 @@
+/*{
+  "certNo": "330483199612176614",
+  "address": "北京详细地址",
+  "certName": "张三",
+  "district": "北京 北京 北京市",
+  "webCity": "110101",
+  "contactPhone": "18857331381",
+  "webProvince": "110000",
+  "productName": "电信宽带"
+}*/
+
+{
+  "certNo": "330483199612176614",
+  "uId": "162",
+  "address": "北京详细地址",
+  "certName": "张三",
+  "district": "北京 北京 北京市",
+  "webCity": "110101",
+  "contactPhone": "18857331381",
+  "webProvince": "110000",
+  "productName": "电信宽带"
+}
+
+
+/*
+public static void main(String[] args) {
+  JSONObject jsonObject = new JSONObject();
+  jsonObject.put("productName","电信宽带");
+  jsonObject.put("certName","张三");
+  jsonObject.put("certNo","330483199612176614");
+  jsonObject.put("contactPhone","18857331381");
+  jsonObject.put("district","北京 北京 北京市");
+  jsonObject.put("address","北京详细地址");
+  jsonObject.put("webProvince","110000");
+  jsonObject.put("webCity","110101");
+  ChunliUtil.syncChunliOrder(jsonObject);
+
+}*/

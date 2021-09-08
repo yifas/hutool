@@ -1,0 +1,36 @@
+{
+  "head": {
+    "sysCode": "UOP101",
+    "method": "synOrderInfo",
+    "sign": "16f29e46ad4f8f066c209c6cde343442",
+    "appCode": "FJDQTMGL",
+    "attach": "hello,proc.fj.189.cn",
+    "reqTime": "2021-07-20 12:02:57",
+    "version": "1",
+    "transactionId": "FJDQTMGL21072012022ECEEE3D42719F3AB47849C0FA6FF19A"
+  },
+  "biz": {
+    "amount": "369",
+    "offerName": "测试名称",
+    "provName": "河南",
+    "sendDate": "2021-07-16 11:35:57",
+    "busiAct": "1",
+    "custAddr": "aaa",
+    "statusCd": "1",
+    "finshDate": "2021-07-03 14:25:57",
+    "remark": "测试",
+    "custName": "陈彬杰",
+    "logisticCompan": "sdds",
+    "logisticNbr": "123456",
+    "iccid": "12345678",
+    "cityName": "周口",
+    "phone": "4542354254123333",
+    "orderCode": "1000002111",
+    "busiType": "1",
+    "from": "LY007",
+    "accNbr": "15612345678",
+    "id": "144261",
+    "account": "super",
+    "createDate": "2021-07-14 00:00:00"
+  }
+}

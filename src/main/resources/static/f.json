@@ -1,0 +1,28 @@
+{
+  "orderCode": "100000210003",
+  "busiType": "1",
+  "offerName": "宽带新装",
+  "busiAct": "1",
+  "from": "LY007",
+
+  "amount": "891",
+  "statusCd": "1",
+  "createDate": "2021-07-23 00:00:00",
+  "finshDate": "2021-07-24 09:25:42",
+  "provName": "河南",
+
+  "cityName": "周口",
+  "accNbr": "15612345678",
+  "account": "12123133",
+  "custName": "陈彬杰",
+  "phone": "4542354254123103",
+
+  "custAddr": "aaa",
+  "logisticNbr": "123456",
+  "logisticCompan": "sdds",
+  "sendDate": "2021-07-24 16:30:42",
+  "iccid": "12345678",
+
+  "remark": "测试",
+  "id": "1502691"
+}
